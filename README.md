@@ -1,7 +1,8 @@
 ### Hi there I am Alyssa 🦹🏽‍♀️
 
 #### music 🎹 electronics ⚡ and programming lover👩🏽‍💻! 
-#### Slowly building up my repo! WIP ... 🥰
+#### Slowly building up my repo! Have mostly UpLeveled bootcamp projects and the ten CS50 2021 repos are set to private because of the academic honesty policy.
+WIP ... 🥰
 
 <h3>🖥️ Tech Stack</h3>
 
