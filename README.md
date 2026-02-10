@@ -1,7 +1,5 @@
 ### Hi there I am Alyssa 🦹🏽‍♀️
 
-#### music 🎹 electronics ⚡ and programming lover👩🏽‍💻! 
-
 <h3>🖥️ Tech Stack</h3>
 
 
